@@ -1,0 +1,2 @@
+# mawzmi
+Daily digest notes
